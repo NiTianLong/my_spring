@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+    <title>mySpring</title>
+    </head>
+    <body>
+    <p>How many <font color="red"> @{name} </font> do you have ?</p>
+    <p>I have <font color="blue"> @{count} </font> apples</p>
+</body>
+</html>
